@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI",
+  "description": "Multilingual autonomous AI assistant with task planner, terminal engine, device integrations, diagnostics, and self-repair.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
